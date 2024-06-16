@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalit Tyagi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 📫 How to reach me **lalit.concepts@gmail.com**
+- 📫 How to reach me **lalit.tyagi711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
