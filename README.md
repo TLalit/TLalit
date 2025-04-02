@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lalit Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Lalit</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 📫 How to reach me **lalit.tyagi711@gmail.com**
+- 📫 How to reach me **tlalit.dev@gmail.com**
 - 💬 WhatsApp: <a href="https://wa.me/919650674431" target="blank">**+919650674431**</a>
 
 <h3 align="left">Connect with me:</h3>
