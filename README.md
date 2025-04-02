@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 📫 How to reach me **lalit.tyagi711@gmail.com**
+- 💬 WhatsApp: <a href="https://wa.me/919650674431" target="blank">**+919650674431**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
